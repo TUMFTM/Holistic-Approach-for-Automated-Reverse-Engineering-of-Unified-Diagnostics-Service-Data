@@ -1,0 +1,4 @@
+doip:
+  batch_size: 4
+  service_discovery_timeout: 10
+vehicles:

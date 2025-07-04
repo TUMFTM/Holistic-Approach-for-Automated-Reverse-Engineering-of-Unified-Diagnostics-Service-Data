@@ -1,0 +1,3 @@
+[submodule "revcan/modules/caringcaribou"]
+	path = revcan/modules/caringcaribou
+	url = https://github.com/CaringCaribou/caringcaribou.git

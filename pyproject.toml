@@ -1,0 +1,39 @@
+[tool.poetry]
+name = "revcan"
+version = "0.1.0"
+description = ""
+authors = ["Julius Duell <julius.duell@tum.de>", "Tim Voigt <tim.voigt@tum.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+matplotlib = "3.7.2"
+PySide6 = "6.5.1.1"
+pyqtgraph = "^0.13.3"
+python-can = "4.1.0"
+numpy = "1.24.3"
+pandas = "2.0.3"
+scikit-learn = "1.3.0"
+seaborn = "^0.13.0"
+black = "^23.10.1"
+opencv-python = "^4.8.1.78"
+pytesseract = "^0.3.10"
+click = "^8.1.7"
+pylint = "^3.0.3"
+opencv-contrib-python = "^4.9.0.80"
+ipykernel = "^6.29.4"
+tqdm = "^4.66.2"
+ipywidgets = "^8.1.2"
+keyboard = "^0.13.5"
+minimalmodbus = "^2.1.1"
+easyocr = "^1.7.1"
+pyshark = "^0.6"
+asyncio = "^3.4.3"
+pydantic = "^2.9.2"
+caringcaribou = {path = "revcan/modules/caringcaribou"}
+colorama = "^0.4.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
