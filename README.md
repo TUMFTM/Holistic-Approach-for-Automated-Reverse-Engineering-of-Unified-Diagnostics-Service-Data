@@ -21,9 +21,8 @@ Reverse engineering of the internal vehicle communication is a crucial disciplin
 
 The tool is documented in the following scientific publication:
 
-Das muss man dann UPDATEN
-Rosenberger, N.; Fundel, M.; Bogdan, S.; Köning, L.; Kragt, P.; Kühberger, M.; Lienkamp, M. Scientific benchmarking: Engineering quality evaluation of electric vehicle concepts. e-Prime - Advances in Electrical Engineering, Electronics and Energy 2024, 9, 100746. 
-https://doi.org/10.1016/j.prime.2024.100746.
+Rosenberger, N.; Hoffmann Nikolai; Mitscherlich, Alexander; Lienkamp, M. Holistic Approach for Automated Reverse Engineering of Unified Diagnostics Service Data. World Electric Vehicle Journal, 2025, 16(7), 384. 
+https://doi.org/10.3390/wevj16070384.
 
 ## Features
 * Create overview of all available ECUs and DIDs of a vehicle
